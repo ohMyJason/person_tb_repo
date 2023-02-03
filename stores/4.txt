@@ -1,0 +1,11 @@
+{
+    "urls": [
+           {
+            "url":"https://ohmyjason.github.io/person_tb_repo/debug_duo/v.json",
+            "name": "刘刘本地线路1"
+        }, {
+            "url":"https://ohmyjason.github.io/person_tb_repo/debug_duo/m.json",
+            "name": "刘刘本地线路2"
+        }
+      ]  
+}

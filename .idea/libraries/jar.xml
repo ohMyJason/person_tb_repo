@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/debug_duo/jar/duox.jar!/" />
+      <root url="jar://$PROJECT_DIR$/debug_duo/jar/duov.jar!/" />
+      <root url="jar://$PROJECT_DIR$/debug_duo/jar/duo.jar!/" />
+      <root url="jar://$PROJECT_DIR$/debug_duo/jar/duovv.jar!/" />
+      <root url="jar://$PROJECT_DIR$/debug_duo/jar/duoo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
